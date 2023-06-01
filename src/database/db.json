@@ -73,6 +73,16 @@
       "id": "3cb0bb33-fab0-42e1-b41f-a842fd7969b9",
       "createdAt": "6/1/2023, 5:26:38 PM",
       "updatedAt": "6/1/2023, 5:26:38 PM"
+    },
+    {
+      "name": "Banga",
+      "mode": "Boss",
+      "equipment": "Ndanu",
+      "exercises": "exels.com",
+      "trainerTips": "Ngumman",
+      "id": "fb3c02af-50fb-4273-9bbe-7b7bf7f88413",
+      "createdAt": "6/1/2023, 6:15:11 PM",
+      "updatedAt": "6/1/2023, 6:15:11 PM"
     }
   ]
 }
